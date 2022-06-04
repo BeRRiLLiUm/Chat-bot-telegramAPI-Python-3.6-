@@ -3,7 +3,7 @@ import telebot
 import logging
 from telebot import types
 import datetime 
-bot = telebot.TeleBot('1800255927:AAGON95N7QY89-EPZMH7mdElRCG72N3nFtg');
+bot = telebot.TeleBot('-');
 import csv
 import io
 
